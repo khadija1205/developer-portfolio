@@ -1,5 +1,9 @@
 # Animated Portfolio
 
+## Web Version
+A live, deployed version of this project is available at:
+[Developer Portfolio](https://animated-portfolio-three-rosy.vercel.app/)
+
 A modern, interactive portfolio website showcasing projects and skills with smooth animations and a sleek dark theme.
 
 ##  Features
